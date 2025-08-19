@@ -9,7 +9,6 @@ Gem::Specification.new do |s|
   s.description = "ActiveRecord Reputation System gem allows rails apps to compute and publish reputation scores for active record models."
 
   s.platform = Gem::Platform::RUBY
-  s.has_rdoc = true
   s.summary = "ActiveRecord Reputation System gem allows rails apps to compute and publish reputation scores for active record models"
 
   s.add_development_dependency 'activerecord', '~> 4.0'
